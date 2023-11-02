@@ -25,7 +25,7 @@ namespace DotnetCoding.Infrastructure
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("server=10.230.0.160;user=Sravanthi.P;password=Sravanthi@2022;database=master");
+                optionsBuilder.UseSqlServer("server=10.230.0.160;user=Rajnandan.M;password=Raj@0999;database=master");
             }
         }
 
